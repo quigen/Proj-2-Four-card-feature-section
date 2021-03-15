@@ -1,0 +1,157 @@
+body{
+	background-color: #F2F3F4;
+}
+h1 {
+	font: 25px/10px Century Gothic;
+	color: #85929E;
+	text-align: center;
+	font-weight: 100;
+	padding: 30px 0px 0px 0px;
+}
+h2 {
+	font: bold 27px/10px Century Gothic;
+	color: #5D6D7E;
+	text-align: center;
+}
+h3 {
+	font: normal 13.6px/20px Century Gothic;
+	font-weight: 100;
+	text-align: center;
+	color: #ABB2B9;
+	word-break: break-all;
+	width: 450px;
+	position: relative;
+	left: 450px;
+}
+.Supervisor{
+	background-color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	border-radius: 10px;
+	border-top-color: #48D1CC;
+	width: 270px;
+	height: 170px;
+	padding: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	display: inline-block;
+	position: relative;
+	top:150px;
+	left: 200px;
+}
+.Supervisor img{
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 120px;
+	left: 230px;
+}
+.Supervisor p {
+	font: bold 15px Century Gothic;
+	color: #696969;
+	padding: 0px 0px 0px 15px;
+}
+.Supervisor .bySupervisor{
+	font: normal 12px Century Gothic;
+	text-align: justify;
+	word-break: break-all;
+	color: #A9A9A9;
+	padding: 0px 50px 0px 15px;
+}
+.Team{
+	background-color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	border-radius: 10px;
+	border-top-color: #DC143C;
+	width: 270px;
+	height: 170px;
+	padding: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	display: inline-block;
+	position: relative;
+	top: 30px;
+	left: 220px;
+}
+.Team img{
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 120px ;
+	left: 220px ;
+}
+.Team p {
+	font: bold 15px Century Gothic;
+	color: #696969;
+	padding: 0px 0px 0px 15px;
+}
+.Team .byTeam{
+	font: normal 12px Century Gothic;
+	text-align: justify;
+	word-break: break-all;
+	color: #A9A9A9;
+	padding: 0px 21px 0px 15px;
+}
+.Karma{
+	background-color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	border-radius: 10px;
+	border-top-color:#FFD700;
+	width: 270px;
+	height: 170px;
+	padding: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	display: inline-block;
+	position: relative;
+	top: 250px;
+	left: -80px ;
+}
+.Karma img{
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 120px;
+	left: 230px;
+}
+.Karma p {
+	font: bold 15px Century Gothic;
+	color: #696969;
+	padding: 0px 0px 0px 15px;
+}
+.Karma .byKarma{
+	font: normal 12px Century Gothic;
+	text-align: justify;
+	word-break: break-all;
+	color: #A9A9A9;
+	padding: 0px 20px 0px 15px;
+}
+.Calculator{
+	background-color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	border-radius: 10px;
+	border-top-color: #1E90FF;
+	width: 270px;
+	height: 170px;
+	padding: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	display: inline-block;
+	position: relative;
+	top: 150px ;
+	left: -60px ;
+}
+.Calculator img{
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 120px;
+	left: 230px;
+}
+.Calculator p {
+	font: bold 15px Century Gothic;
+	color: #696969;
+	padding: 0px 0px 0px 15px;
+}
+.Calculator .byCalculator{
+	font: normal 12px Century Gothic;
+	text-align: justify;
+	word-break: break-all;
+	color: #A9A9A9;
+	padding: 0px 20px 0px 15px;
+}
